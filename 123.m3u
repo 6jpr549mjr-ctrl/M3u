@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,a1 report
+rtmp://66.55.93.204/livepkgr/a1stream?adbe-live-event=a1report
+#EXTINF:-1,ALB SUPER SPORTS 2 m3u8 1280*738
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,ALB SUPER SPORTS 3 m3u8 1280*738
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,ALB SUPER SPORTS 4 m3u8 1280*738
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1,Albanian Screen
+rtmp://95.110.242.231:11935/live/albanianscreentv
+#EXTINF:-1,alsatm
+http://81.7.13.162/hls/alsatm/index.m3u8
+#EXTINF:-1,C ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,COPLIKU
+rtmp://psham1.setplex.net:1935/tvalb_loc_ams243/tvkop2431565
+#EXTINF:-1,filmdrame
+http://81.7.13.162/hls/filmdrame/index.m3u8
+#EXTINF:-1,filmkomedi
+http://81.7.13.162/hls/filmkomedi/index.m3u8
+#EXTINF:-1,filmnjehd
+http://81.7.13.162/hls/filmnjehd/index.m3u8
+#EXTINF:-1,filmthriller
+http://81.7.13.162/hls/filmthriller/index.m3u8
+#EXTINF:-1,K ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,klanhd
+http://81.7.13.162/hls/klanhd/index.m3u8
+#EXTINF:-1,klankosova
+http://81.7.13.162/hls/klankosova/index.m3u8
+#EXTINF:-1,kohavizion
+http://81.7.13.162/hls/kohavizion/index.m3u8
+#EXTINF:-1,M ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,Mktv 2 (Mrt2)
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/bd0b11a4f8d05cc0bffe589f55909615/chunklist_w787058205_b1196000.m3u8
+#EXTINF:-1,N ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,n24
+rtmp://66.55.93.203/livepkgr//n24stream?adbe-live-event=news24
+#EXTINF:-1,O ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,P ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,plushd
+http://81.7.13.162/hls/plushd/index.m3u8
+#EXTINF:-1,R ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,RROKUM TV
+rtmp://82.114.65.202/live//rrokumtv
+#EXTINF:-1,RTK
+rtmp://wowza.rtkit.com/live/livestream
+#EXTINF:-1,rtk
+http://81.7.13.162/hls/rtk/index.m3u8
+#EXTINF:-1,Rtk 1
+http://wowza.rtkit.com:1935/live/livestream/chunklist.m3u8?wowzasessionid=491913886
+#EXTINF:-1,rtv21
+http://81.7.13.162/hls/rtv21/index.m3u8
+#EXTINF:-1,S ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,T ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,V ***BratuMarian IPTV***
+http://www.bratu-marian.ro
+#EXTINF:-1,VISION PLUS
+rtmp://live.vizionplus.tv/live//livestream2
+#EXTINF:-1,Vizion Plus
+rtmp://slive.vizionplus.tv:1935/live/livestream2
+#EXTINF:-1,Vizion Plus m3u8
+http://slive.vizionplus.tv:1935/live/livestream2/BratuMarian.m3u8
